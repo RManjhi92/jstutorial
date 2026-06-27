@@ -1,1 +1,1 @@
-# jstutorial
+Learning JavaScript from basics to advanced concepts with examples, exercises, and mini projects.
